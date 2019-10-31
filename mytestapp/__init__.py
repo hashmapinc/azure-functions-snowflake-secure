@@ -44,7 +44,7 @@ def parse_connection_secret(secret: str) -> dict:
     Parse the connection information from the secret
 
     Args:
-        secret: Parses a 'secret' with format: user:password:account:warehouse:database:schema:role
+        secret: Parses a 'secret' with format: user|password|account|warehouse|database|schema|role
 
     Returns: dictionary with parsed connection information
 
