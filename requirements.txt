@@ -103,7 +103,7 @@ oscrypto==1.1.0
 pandas==0.25.2
 pycparser==2.19
 pycryptodomex==3.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==19.0.0
 python-dateutil==2.8.0
 pytz==2019.3
